@@ -34,7 +34,6 @@ Instruction-tuned, multi-persona LLM fine-tuned with QLoRA on 50K+ Q&A pairs. Ch
 | [NER-BERT-TF](https://github.com/jayeshbankoti007/NER-BERT-TF) | TensorFlow implementation of BERT-based NER with data prep and eval. |
 | [entity-based-sentiment](https://github.com/jayeshbankoti007/entity-based-sentiment) | Sentiment analysis tied to specific entity mentions in text. |
 | [jayeshbankoti.site-source](https://github.com/jayeshbankoti007/jayeshbankoti.site-source) | Source code for my personal portfolio website. |
-| [github-profile-config](https://github.com/jayeshbankoti007/github-profile-config) | Configs and templates for customizing GitHub profile. |
 
 ---
 
