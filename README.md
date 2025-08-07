@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Jayesh Bankoti
 
-**Senior AI Engineer | LLM Architect | GenAI Systems | NLP Lead**
+**Senior Staff Engineer | AI Architect | GenAI Systems | NLP Lead**
 
-Welcome to my GitHub! I'm an AI engineer who thrives at the intersection of **language understanding**, **LLM fine-tuning**, and **efficient deployment**. 
-I build NLP & GenAI systems that go beyond demos — from misinformation detection to persona-aligned assistants and optimized job clusters in Databricks.
+Welcome to my GitHub! I'm an AI engineer who thrives at the intersection of **AI**, **NLP**, **LLM fine-tuning**, and **efficient deployment**. 
+I build NLP & GenAI systems that go beyond demos — from misinformation detection to persona-aligned assistants and optimised job clusters in Databricks.
 
 ---
 
