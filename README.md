@@ -16,7 +16,7 @@ I build NLP & GenAI systems that go beyond demos — from misinformation detecti
 
 ---
 
-### 🧙 [Potterhead GPT](https://huggingface.co/Jayeshbankoti/potterhead_gpt)
+### 🧙 [Potterhead GPT](https://github.com/jayeshbankoti007/potterhead-gpt)
 Instruction-tuned, multi-persona LLM fine-tuned with QLoRA on 50K+ Q&A pairs. Characters like Snape, Dumbledore, and Kobe Bryant respond with tone and persona intact.  
 ✅ Domain pretraining on the full Harry Potter book corpus  
 ✅ Real-time token streaming via FastAPI backend
