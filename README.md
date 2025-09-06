@@ -12,7 +12,7 @@ I build NLP & GenAI systems that go beyond demos — from misinformation detecti
 ### 🔒 [Private] BertTopic Optimised Clustering (ask for access)
 **Narrative Intelligence Pipeline** using UMAP + HDBSCAN for unsupervised discourse clustering with external MongoDB queueing.
 
-📌 *Ask me for access to view the private repo.*
+📌 *Ask me for access to view the private repo. — request access if interested*
 
 ---
 
@@ -21,7 +21,24 @@ Instruction-tuned, multi-persona LLM fine-tuned with QLoRA on 50K+ Q&A pairs. Ch
 ✅ Domain pretraining on the full Harry Potter book corpus  
 ✅ Real-time token streaming via FastAPI backend
 
-📌 Source code available in a private repo — request access if interested.
+📌 Source code and model all publically available in a private repo.
+
+
+x### 🧙 [Agentic Movie Graph RAG](https://github.com/jayeshbankoti007/movie-graph-rag-agent)
+Movie Graph RAG is an agentic retrieval-augmented generation (RAG) system that fuses a knowledge graph with vector similarity search to enable reasoning-driven queries in the movie domain.
+✅ Graph + RAG Hybrid — Combine FAISS vector search with NetworkX graph traversal for multi-hop reasoning.
+✅ Agentic Workflow — The agent plans → retrieves → reasons → explains.
+✅ Explainability — Every answer has a traceable reasoning path.
+
+📌 Source code is all publicly available in a private repo.
+
+
+x### 🧙 [Financial RAG](https://github.com/jayeshbankoti007/Financial_RAG)
+Production-ready RAG (Retrieval-Augmented Generation) system specifically designed for financial document analysis. Upload PDFs, ask natural language questions, and get accurate answers with precise source attribution.
+
+📌 Source code is all publicly available in a private repo.
+
+
 
 ---
 
