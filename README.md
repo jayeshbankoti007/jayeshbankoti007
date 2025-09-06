@@ -24,7 +24,7 @@ Instruction-tuned, multi-persona LLM fine-tuned with QLoRA on 50K+ Q&A pairs. Ch
 📌 Source code and model all publically available in a private repo.
 
 
-x### 🧙 [Agentic Movie Graph RAG](https://github.com/jayeshbankoti007/movie-graph-rag-agent)
+### 🧙 [Agentic Movie Graph RAG](https://github.com/jayeshbankoti007/movie-graph-rag-agent)
 Movie Graph RAG is an agentic retrieval-augmented generation (RAG) system that fuses a knowledge graph with vector similarity search to enable reasoning-driven queries in the movie domain.
 ✅ Graph + RAG Hybrid — Combine FAISS vector search with NetworkX graph traversal for multi-hop reasoning.
 ✅ Agentic Workflow — The agent plans → retrieves → reasons → explains.
@@ -33,7 +33,7 @@ Movie Graph RAG is an agentic retrieval-augmented generation (RAG) system that f
 📌 Source code is all publicly available in a private repo.
 
 
-x### 🧙 [Financial RAG](https://github.com/jayeshbankoti007/Financial_RAG)
+### 🧙 [Financial RAG](https://github.com/jayeshbankoti007/Financial_RAG)
 Production-ready RAG (Retrieval-Augmented Generation) system specifically designed for financial document analysis. Upload PDFs, ask natural language questions, and get accurate answers with precise source attribution.
 
 📌 Source code is all publicly available in a private repo.
