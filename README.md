@@ -31,8 +31,10 @@ Movie Graph RAG is an agentic retrieval-augmented generation (RAG) system that f
 ---
 
 
-### 🧙 [Financial RAG](https://github.com/jayeshbankoti007/Financial_RAG)
-Production-ready RAG (Retrieval-Augmented Generation) system specifically designed for financial document analysis. Upload PDFs, ask natural language questions, and get accurate answers with precise source attribution.
+### 🧙 [Heirarchical Semantic RAG](https://github.com/jayeshbankoti007/Financial_RAG)
+Production-ready RAG (Retrieval-Augmented Generation) system specifically designed for document analysis. Upload PDFs, ask natural language questions, and get accurate answers with precise source attribution.
+✅ Build Superchunks using HDBSCAN
+✅ Productionised VectorDB with HNSW FAISS
 
 📌 Source code is all publicly available in a private repo.
 
